@@ -15,6 +15,12 @@ Now you're all set and can use the following button to launch the service:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/lescai-teaching/bigdata-rstudio)
 
+Please note:
+
+- the button will open a Visual Studio Code workspace first
+- let the environment download the docker and launch it
+- as soon as the environment is ready, a pop-up window will open with an RStudio interface
+
 
 ## Running with Github Codespaces
 
