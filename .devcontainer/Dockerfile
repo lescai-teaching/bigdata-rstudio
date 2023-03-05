@@ -9,7 +9,15 @@ RUN install2.r --error --skipinstalled -n -1 \
         tidymodels \
         markdown \
         GGally \
-		infer \
-    && rm -rf /tmp/downloaded_packages
+        ggfortify \
+        ggbeeswarm \
+        moderndive \
+        dbscan \
+        pheatmap \
+        cowplot \
+        gghighlight \
+        MetBrewer \
+        infer \
+        && rm -rf /tmp/downloaded_packages
 
 ENV DISABLE_AUTH=true
